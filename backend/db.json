@@ -1,0 +1,7 @@
+{
+  "projects": [
+    { "id": 1, "name": "Portfolio Website" },
+    { "id": 2, "name": "Weather App" },
+    { "id": 3, "name": "Todo App" }
+  ]
+}
